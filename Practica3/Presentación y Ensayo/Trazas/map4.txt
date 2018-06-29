@@ -1,0 +1,13 @@
+CONV-jo2cs32k
+
+
+"Capabilities 99a4b_CAR0:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities d7cd2_CAR1:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities afa91_CAR2:    Range: 3    fuelRate: 2    fly: true"
+
+"Capabilities 7fb3c_CAR3:    Range: 3    fuelRate: 2    fly: true"
+
+
+TOTAL STEPS*FUEL: 331

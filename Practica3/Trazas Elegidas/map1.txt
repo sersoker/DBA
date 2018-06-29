@@ -1,0 +1,9 @@
+CONV-c3oi6o9d
+
+{"fuelrate":2,"range":3,"fly":true}}
+{"fuelrate":1,"range":5,"fly":false}}
+{"fuelrate":2,"range":3,"fly":true}}
+{"fuelrate":1,"range":5,"fly":false}}
+
+
+Fuel usado=281

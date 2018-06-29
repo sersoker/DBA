@@ -1,0 +1,12 @@
+CONV-1g15zh0p
+
+"Capabilities d1b3d_CAR0:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities 993c4_CAR1:    Range: 11    fuelRate: 4    fly: false"
+
+"Capabilities 7e42a_CAR2:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities 50e72_CAR3:    Range: 5    fuelRate: 1    fly: false"
+
+
+TOTAL FUEL TO GOAL: 1014

@@ -1,0 +1,11 @@
+CONV-640ebw81
+
+"Capabilities 8041c_CAR0:    Range: 3    fuelRate: 2    fly: true"
+
+"Capabilities 3e422_CAR1:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities f7ff6_CAR2:    Range: 3    fuelRate: 2    fly: true"
+
+"Capabilities 9b7b2_CAR3:    Range: 5    fuelRate: 1    fly: false"
+
+TOTAL STEPS*FUEL: 691

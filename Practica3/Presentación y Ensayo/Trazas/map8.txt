@@ -1,0 +1,11 @@
+CONV-4bwdsbqa
+
+"Capabilities 00a53_CAR0:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities 4ccea_CAR1:    Range: 3    fuelRate: 2    fly: true"
+
+"Capabilities d4115_CAR2:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities ff3fa_CAR3:    Range: 3    fuelRate: 2    fly: true"
+
+TOTAL STEPS*FUEL: 365

@@ -1,0 +1,11 @@
+CONV-9k38x80g
+
+"Capabilities 6477e_CAR0:    Range: 11    fuelRate: 4    fly: false"
+
+"Capabilities b1231_CAR1:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities fe99b_CAR2:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities 25c14_CAR3:    Range: 5    fuelRate: 1    fly: false"
+
+TOTAL FUEL TO GOAL: 417

@@ -1,0 +1,11 @@
+CONV-hhoigr5j
+
+"Capabilities d2364_CAR0:    Range: 5    fuelRate: 1    fly: false"
+
+"Capabilities a970c_CAR1:    Range: 11    fuelRate: 4    fly: false"
+
+"Capabilities 491bc_CAR2:    Range: 11    fuelRate: 4    fly: false"
+
+"Capabilities 133bc_CAR3:    Range: 3    fuelRate: 2    fly: true"
+
+TOTAL FUEL TO GOAL: 1011
